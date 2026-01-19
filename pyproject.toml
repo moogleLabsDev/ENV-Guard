@@ -11,7 +11,7 @@ requires-python = ">=3.8"
 license = "MIT"
 keywords = ["environment", "variables", "security", "dotenv", "configuration"]
 authors = [
-  { name = "Sahil", email = "singhsahil172003@gmail.com" },
+  { name = "MoogleLabs", email = "mooglelabs.developers@gmail.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",

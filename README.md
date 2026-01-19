@@ -603,4 +603,3 @@ MIT License - see LICENSE file for details.
 ---
 
 **EnvGuard** - Bulletproof environment management for professional Python applications.
-

@@ -26,3 +26,5 @@ htmlcov/
 .env
 .env.*
 !.env.example
+
+.pypirc

@@ -878,8 +878,8 @@ wheels = [
 ]
 
 [[package]]
-name = "envguard"
-version = "0.1.0"
+name = "envgd"
+version = "0.1.2"
 source = { editable = "." }
 dependencies = [
     { name = "cryptography" },
